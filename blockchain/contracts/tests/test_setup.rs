@@ -30,6 +30,21 @@ pub struct TestUser {
     pub pubkey: Pubkey,
 }
 
+// Middleware-like helper for access token check
+async function requireAccessToken(request: any, reply: any) {
+  const token = request.headers["x-inpayx-token"] as string | undefined;
+  if (!token) {
+    reply.code(401).send({ error: "missing_access_token" });
+    return false;
+  }
+  const entry = accessTokens.get(token);
+  if (!entry || entry.expiresAt < Date.now()) {
+    reply.code(401).send({ error: "invalid_or_expired_token" });
+    return false;
+  }
+  return true;
+}
+
 // TestContext struct to hold the test environment state
 pub struct TestContext {
     pub banks_client: BanksClient,

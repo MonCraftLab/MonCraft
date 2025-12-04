@@ -8,6 +8,8 @@
 [![Website](https://img.shields.io/badge/Website-MONARO-blue?logo=google-chrome)](https://monaro.run/)
 [![Twitter](https://img.shields.io/badge/Twitter-MONARO-blue?logo=twitter)](https://x.com/MONAROLAB)
 
+CA: 9sL1Ytd1W7WW4vSdSYWkya5nNBoaWMfVPMaRNo5Upump
+
 Monaro is a high-performance Solana fork that embeds Monero-grade privacy directly into its base layer, creating a blockchain where confidentiality is not optional but fundamental.
 
 Every component of the runtime — transactions, balances, identities, and routing paths — is shielded by default rather than exposed to the public state.

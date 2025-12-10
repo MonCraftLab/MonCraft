@@ -106,6 +106,13 @@ class TestAgentModel(unittest.TestCase):
 
     /jump {6QLQxErhHN9kKt}
 
+    it('updates input value on change', () => {
+    renderWithTheme(<Input value="" onChange={mockOnChange} placeholder="Enter text" />);
+    const input = screen.getByPlaceholderText(/Enter text/i);
+    fireEvent.change(input, { target: { value: 'Test Input' } });
+    expect(mockOnChange).toHaveBeenCalled();
+  });
+
     )}
     
     def test_update_parameters(self):

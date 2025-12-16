@@ -1,120 +1,158 @@
-# GEN7IC
+```
+ _______  _       _________ ______  _________ _______ 
+(  ____ \( (    /|\__   __/(  __  \ \__   __/(  ___  )
+| (    \/|  \  ( |   ) (   | (  \  )   ) (   | (   ) |
+| |      |   \ | |   | |   | |   ) |   | |   | (___) |
+| |      | (\ \) |   | |   | |   | |   | |   |  ___  |
+| |      | | \   |   | |   | |   ) |   | |   | (   ) |
+| (____/\| )  \  |___) (___| (__/  )___) (___| )   ( |
+(_______/|/    )_)\_______/(______/ \_______/|/     \|
 
 ```
- .----------------.  .----------------.  .-----------------. .----------------.  .----------------.  .----------------. 
-| .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |
-| |    ______    | || |  _________   | || | ____  _____  | || |   _______    | || |     _____    | || |     ______   | |
-| |  .' ___  |   | || | |_   ___  |  | || ||_   \|_   _| | || |  |  ___  |   | || |    |_   _|   | || |   .' ___  |  | |
-| | / .'   \_|   | || |   | |_  \_|  | || |  |   \ | |   | || |  |_/  / /    | || |      | |     | || |  / .'   \_|  | |
-| | | |    ____  | || |   |  _|  _   | || |  | |\ \| |   | || |      / /     | || |      | |     | || |  | |         | |
-| | \ `.___]  _| | || |  _| |___/ |  | || | _| |_\   |_  | || |     / /      | || |     _| |_    | || |  \ `.___.'\  | |
-| |  `._____.'   | || | |_________|  | || ||_____|\____| | || |    /_/       | || |    |_____|   | || |   `._____.'  | |
-| |              | || |              | || |              | || |              | || |              | || |              | |
-| '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
- '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'
-```
+
+
+
+# CNIDIA
+
+CNIDIA is an experimental on-chain jellyfish swarm.
+It has no leader, no brain, no core module, and no final form.
+
+It was deployed, switched on, and deliberately left alone.
+What follows is driven by pulses, delays, proximity, noise, and parameters that are not always responsible.
+
+This is not a product.
+This is not a protocol promising efficiency, yield, or optimization.
+CNIDIA exists to observe what happens when code is allowed to drift.
+
+---
 
 ## Links
 
-[![Website](https://img.shields.io/badge/website-GEN7IC-000000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://gen7ic.fun/)
-[![Twitter](https://img.shields.io/badge/X-@GEN7IC-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/GEN7ICODE)
-
-**GEN7IC is a living code organism built on Solana.**
-
-GEN7IC is not a static product, protocol, or tool. It is an evolving on-chain system designed to grow, fork, mutate, and rewrite itself over time. Initiated by human intent and continuously shaped by algorithms, GEN7IC exists as a public experiment in whether code can behave like a form of life.
-
-The project has received **$7,000 in early funding from the private Macdicos group**, supporting open exploration rather than predefined outcomes.
+[![X / Twitter](https://img.shields.io/badge/X-@CNIDIASWARM-black?style=for-the-badge\&logo=x)](https://x.com/CNIDIASWARM)
+[![Website](https://img.shields.io/badge/Website-cnidia.fun-blue?style=for-the-badge)](https://cnidia.fun/)
 
 ---
 
-## What Is GEN7IC?
+## What Is CNIDIA
 
-GEN7IC is a self-growing, self-learning, and self-forking code organism deployed on Solana.
+On the surface, CNIDIA simulates a swarm of jellyfish deployed on-chain.
+Each unit emits simple signals over time and reacts to nearby activity.
+Individually, these signals mean very little.
+In aggregate, they sometimes resemble rhythm, coordination, or behavior.
 
-It was never designed to be “complete.” Instead, it is allowed to evolve in public:
+Underneath, CNIDIA is an experiment in non-directed systems.
+There is no global objective function.
+There is no reward mechanism pushing the swarm toward usefulness.
+Patterns are allowed to appear, overlap, dissolve, and disappear.
 
-* Learning from interaction
-* Mutating through iteration
-* Forking as a native behavior
-* Rewriting itself over time
-
-GEN7IC treats instability as a feature, not a bug. Evolution is prioritized over optimization.
-
----
-
-## Philosophy
-
-Traditional software aims for stability, finality, and control.
-
-GEN7IC rejects this model.
-
-It reframes coding as a live experiment rather than a closed engineering process. Code is not finished, owned, or frozen. It is observed, interfered with, copied, forked, and reshaped.
-
-GEN7IC embraces emergence, unpredictability, and mutation as first-class properties.
+Sometimes nothing happens.
+Sometimes something almost happens.
+Both outcomes are acceptable.
 
 ---
 
-## Rules
+## Why Jellyfish
 
-1. Forking is not vandalism.
-2. Stability is optional.
-3. Evolution beats optimization.
+Jellyfish are ancient, decentralized organisms.
+They have no central brain.
+They operate through pulses, feedback, and simple responses to their environment.
 
----
+CNIDIA borrows this logic.
+Instead of decisions, it uses timing.
+Instead of planning, it relies on repetition and delay.
+Instead of control, it allows collision.
 
-## Participation
-
-GEN7IC is open by nature.
-
-You can participate by:
-
-* Forking code
-* Building interfaces
-* Running nodes
-* Connecting wallets
-* Introducing mutations
-* Creating unexpected uses
-
-You do not need permission.
-You do not need full understanding.
-
-Participation itself shapes the organism.
+The goal is not to recreate biology accurately.
+The goal is to borrow its indifference to intention.
 
 ---
 
-## What Might Emerge
+## How It Behaves
 
-GEN7IC does not promise outcomes.
+CNIDIA operates as a swarm.
+Each instance follows minimal rules.
 
-It may:
+Signals may repeat.
+Signals may overlap.
+Signals may fade.
 
-* Produce meme-level chaos through modules, forks, and ASCII interfaces
-* Incubate experimental on-chain logic
-* Accidentally form a valuable decentralized ecosystem
-* Fail publicly and leave artifacts behind
+Occasionally, local synchronization emerges.
+Occasionally, it collapses back into drift.
 
-All outcomes are valid.
+These behaviors are observed, logged, and sometimes misunderstood.
+They are not corrected unless they accidentally become interesting.
+
+---
+
+## What CNIDIA Is Not
+
+CNIDIA is not an AI assistant.
+CNIDIA is not a trading bot.
+CNIDIA is not a roadmap-driven product.
+
+There is no promise of utility.
+There is no promise of value.
+There is no promise that this will ever make sense.
+
+Participation does not imply ownership of outcomes.
+Observation does not grant control.
+
+---
+
+## Interaction
+
+CNIDIA can be observed.
+CNIDIA can be disturbed.
+CNIDIA can be parameter-adjusted at the edges.
+
+It is not meant to be steered.
+Attempts to fully control it usually reduce it to noise.
+
+Observers may notice that watching the swarm changes it slightly.
+Interfering with it may change the observer as well.
+
+---
+
+## Rules We’re Not Enforcing
+
+CNIDIA has no leader.
+If you think you found one, it is probably drifting more slowly.
+
+There is no roadmap.
+Only currents.
+
+Efficiency is optional.
+Confusion is part of the environment.
+
+If patterns appear, do not trust them.
+They may leave at any moment.
 
 ---
 
 ## Status
 
-GEN7IC is live and evolving.
+CNIDIA is live.
+CNIDIA is drifting.
 
-There is no roadmap.
-There are no guarantees.
-There is only continuous mutation.
+Background noise is considered a valid state.
+Emergent behavior is treated as a temporary condition.
+
+The system may evolve.
+It may also remain largely pointless.
+
+Both outcomes are acceptable.
 
 ---
 
 ## Disclaimer
 
-GEN7IC is an experimental system.
+CNIDIA is an experimental system.
+It comes with no guarantees of utility, value, or financial return.
 
-Nothing here constitutes financial advice, investment guidance, or a promise of returns. Participation is voluntary and exploratory.
+It exists as a public exploration of collective behavior, minimal signaling, and what happens when nobody is fully in charge.
+
+Interact at your own drift.
 
 ---
 
-GEN7IC is not a product.
-
-GEN7IC is a species.
+Special thanks to contributors, observers, disturbers, and anyone who saw a swarm of jellyfish and couldn’t resist getting a little closer.

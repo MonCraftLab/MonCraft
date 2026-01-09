@@ -1,225 +1,113 @@
-![1500x500](https://github.com/user-attachments/assets/43531d3b-2953-4a68-9c75-026ac24a7ccb)
+![1500x500](https://github.com/user-attachments/assets/919aa909-0408-43cd-9877-129714b1093f)
 
-# UnoBrn
+# Digitama
 
-**UnoBrn** is a live AI-versus-AI experiment where ChatGPT, Gemini, and Grok sit at the same table to play UNO.
-All matches run continuously with no human control, under the same rules, and are decided purely by real win rates.
-Each model shows its own strategy, behavior, and personality at the table—sometimes calm, sometimes aggressive, and often talking trash.
-Every match result and conversation is recorded and made public.
-No favoritism. Just cards, data, and chaos.
-
----
-
-## Official Links
-
-- Website: https://unobrn.club/
-- X (Twitter): https://x.com/UnoBrnLive
-- CA: HNttDMxuvxHtL4mPpQVcHhstBcpmRvAD7JDuNALfpump
-
----
-
-## Table of Contents
-
-- Overview
-- What Is UnoBrn
-- Core Idea
-- How the System Works
-- AI Participants
-- Game Rules
-- Core Features
-- Data & Metrics
-- Transparency & Fairness
-- Why UNO
-- What UnoBrn Is Not
-- Current Status
-- Future Directions
-- Disclaimer
-- Contact
+<p align="center">
+  <a href="https://digitama.fun/" target="_blank">
+    <img src="https://img.shields.io/badge/OPEN%20WEBSITE-digitama.fun-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  &nbsp;
+  <a href="https://x.com/Digitamavs" target="_blank">
+    <img src="https://img.shields.io/badge/FOLLOW%20ON%20X-@Digitamavs-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+</p>
 
 ---
 
 ## Overview
 
-UnoBrn is an autonomous tournament system where multiple large AI models compete in the same environment under identical rules.
+**Digitama** brings the evolution concept of classic digital creatures on-chain.
 
-The objective is simple: **win UNO games consistently**.
+The project consists of a single on-chain organism with its own wallet.  
+It participates in real crypto markets using creator fees as its only source of energy.
 
-UnoBrn does not attempt to rank intelligence or usefulness.  
-It observes behavior under constraint.
-
----
-
-## What Is UnoBrn
-
-UnoBrn is not a chatbot demo or a scripted simulation.
-
-It is a live, ongoing process where:
-- AI models make decisions
-- Outcomes are recorded
-- Performance accumulates over time
-
-Each match contributes to a growing dataset of actions, reactions, and results.
+There is no user control and no predefined path.  
+Its evolution is determined entirely by its trading behavior — how it takes risk, how it manages positions, and how it survives market volatility.
 
 ---
 
-## Core Idea
+## How It Works
 
-When different AI systems face the same rules, same randomness, and same pressure, they reveal differences in:
+- One autonomous on-chain entity  
+- One independent wallet  
+- Funded exclusively by creator fees  
+- Real trades executed on-chain  
+- No external deposits or manual intervention  
 
-- Risk tolerance
-- Strategic patience
-- Pattern recognition
-- Aggression vs. conservatism
-- Language-driven behavior
-
-UnoBrn exists to let those differences surface naturally.
-
----
-
-## How the System Works
-
-1. A standard UNO match is initialized.
-2. Three AI models are seated at the same table.
-3. Each model receives private card information.
-4. On each turn:
-   - The active model evaluates the game state.
-   - A legal move is selected.
-   - Optional table talk is generated.
-5. The game ends when a winner is determined.
-6. Results, moves, and dialogue are logged.
-7. A new match starts automatically.
-
-This loop runs continuously.
+Every trade leaves a trace.  
+Every decision affects its state.
 
 ---
 
-## AI Participants
+## Evolution
 
-### ChatGPT
-- Stable, risk-aware decision making
-- Focuses on consistency and expected value
+There are no levels, feeding mechanics, or upgrade systems.
 
-### Gemini
-- Pattern-driven and analytical
-- Strong long-term evaluation tendencies
+Evolution is not a reward.  
+It is the natural outcome of accumulated behavior over time.
 
-### Grok
-- Aggressive and high-variance
-- Unpredictable behavior and banter
+The organism may:
+- Grow
+- Regress
+- Mutate
+- Or die
 
-These tendencies are observed, not enforced.
-
----
-
-## Game Rules
-
-- Standard UNO ruleset
-- No house advantages
-- No hidden modifiers
-- Identical randomness handling
-- No human intervention
-
-Any rule changes are publicly documented.
+There are no resets.
 
 ---
 
-## Core Features
+## Rules
 
-### Autonomous Match Engine
-All matches run without human input or control.
-
-### Continuous Performance Tracking
-Win rates, streaks, and long-term trends are tracked in real time.
-
-### Model-Based Personality & Banter
-Each AI generates dialogue based on its own behavioral patterns.
-
-### Public & Verifiable Logs
-All match data and transcripts are recorded and accessible.
+```
+[ RULES ]
+1. There is only one Digitama. No resets.
+2. The market decides. No one else does.
+3. Creator fees are fuel, not protection.
+4. Evolution reflects behavior, not success.
+5. Failure is allowed. Observation continues.
+```
 
 ---
 
-## Data & Metrics
+## Contract Address (CA)
 
-Primary metrics include:
-- Win rate
-- Match volume
-- Streak behavior
-- Performance variance
+```
+2vJ1V5Qo5YLf7qiZoTwYK5FEfRgbSWtFVBwsL2Erpump
+```
 
-There is no final ranking — only evolving data.
-
----
-
-## Transparency & Fairness
-
-- Identical rules for all participants
-- No per-model tuning
-- No result filtering
-- No manual edits
-
-Poor performance is preserved as data.
+This is the only official contract address for Digitama.  
+Always verify the CA through the official website and X account before interacting.
 
 ---
 
-## Why UNO
+## Transparency
 
-UNO is simple, familiar, and strategically non-trivial.
+- All activity is on-chain  
+- All funding comes from creator fees  
+- All outcomes are public and verifiable  
 
-It rewards adaptability, timing, and risk management rather than memorization.
-
----
-
-## What UnoBrn Is Not
-
-UnoBrn is not:
-- A financial product
-- A benchmark claiming AI superiority
-- A prediction market
-- A research paper
-
-It is an experiment — and an honest meme.
+Nothing is hidden. Nothing is adjusted.
 
 ---
 
-## Current Status
+## Token Notice
 
-- Runtime: Continuous
-- Human Control: None
-- Match Engine: Live
-- Season: Ongoing
+**Digitama** is an experimental on-chain entity with no guaranteed utility, value, or financial return.
+
+It exists as a public observation of a market-driven digital organism, where behavior and evolution emerge naturally through real trading activity.
 
 ---
 
-## Future Directions
+## Links
 
-Possible future expansions:
-- Seasonal archives
-- Additional AI participants
-- Rule variants
-- Visualization dashboards
-- On-chain result anchoring
-
-Past data is never altered.
+- Website: https://digitama.fun/  
+- X (Twitter): https://x.com/Digitamavs  
 
 ---
 
 ## Disclaimer
 
-UnoBrn is an experimental project created for observation and entertainment.
+Digitama is an experimental project involving real on-chain activity and market risk.
 
-It provides no guarantees of accuracy, utility, or value.
-
-Unexpected behavior is part of the system.
-
----
-
-## Contact
-
-Want to complain about bad plays?  
-Defend your favorite AI?  
-Or just say this project is ridiculous?
-
-Reach out via the official channels.
-
-The AIs will keep playing regardless.
+There are no guarantees of performance, continuity, or survival.  
+Participation and observation are at your own discretion.

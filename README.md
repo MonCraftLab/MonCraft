@@ -1,108 +1,65 @@
-![1500x500](https://github.com/user-attachments/assets/667ba6a7-c063-488f-af9c-30b5b86b84c5)
+![1500x500](https://github.com/user-attachments/assets/233d00e9-17da-447e-8ee4-76b3e782574b)
 
-# PokeSim
+# Pin.Fun
 
-<p align="center">
-  <a href="https://pokesim.fun/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-pokesim.fun-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-  </a>
-  &nbsp;
-  <a href="https://x.com/PokeSimonx" target="_blank">
-    <img src="https://img.shields.io/badge/FOLLOW%20ON%20X-@PokeSimonx-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-</p>
+[Official Website](https://splpin.fun/) | [Twitter](https://x.com/pindotfunx)
 
 ---
 
-## Overview
+## What is Pin.Fun?
 
-**PokeSim** brings the evolution concept of Pokémon on-chain.
+Pin.Fun is an on-chain narrative system built on Solana. It introduces a simple but extreme rule: at any given moment, only one narrative can exist. This unique Pin slot is globally visible, permanently recorded on-chain, and immutable, defining what collective attention acknowledges and remembers.
 
-In the first phase, our main character is **Piplup**, a cute penguin Pokémon.
-
-There is only one PokeSim organism in the project. It owns its own wallet and trades in real crypto markets using creator fees. There is no user control and no predefined path. Its evolution is determined entirely by its trading behavior — how it takes risk, how it holds positions, and how it survives market volatility.
-
-There are no levels, feeding mechanics, or profit promises. Evolution is not a reward, but a natural outcome of its trading decisions. It may grow, regress, mutate, or even disappear.
-
-**We simply place it in the market and observe.**
+In a world of infinite tokens and stories, attention is scarce. Pin.Fun does not create more narratives; it constrains them through absolute scarcity. The Pin is not owned forever, but earned through ongoing contention shaped by participation, time, and consensus. Pin.Fun is not about hype, but about establishing a new on-chain primitive for deciding what deserves to be remembered.
 
 ---
 
-## How It Works
+## Workflow
 
-* One autonomous on-chain entity
-* One independent wallet
-* Funded exclusively by creator fees
-* Real trades executed on-chain
-* No external deposits or manual intervention
+**1️⃣ Forge Pin (PinRite)**  
+Users can inject $PIN or participate through actions to forge a Pin core.  
+- Each forging modifies the Pin’s attributes: scarcity, duration, influence  
+- No asset burning is required; cost is expressed as time, attention, and participation  
 
-Every trade leaves a trace. Every decision affects its state.
+**2️⃣ Stake Enhancement (PinStake)**  
+Users can stake $PIN to strengthen the forged Pin, increasing its weight and duration.  
+- Longer staking → rarer and stronger Pin attributes  
+- Staking is reversible; the protocol handles long-term supply adjustments  
 
----
+**3️⃣ AI Empowerment (spl.PIN)**  
+AI automatically generates each Pin’s unique narrative and on-chain attributes, creating a native spl.PIN asset  
+- Each Pin is unique and can be traded or collected on-chain  
+- Records origin, influence, duration, and historical context  
+- Not an NFT image, but a native on-chain narrative entity  
 
-## Evolution
+**4️⃣ Contention & Upgrade (Pin Slot)**  
+There is only one Pin slot globally  
+- To acquire the Pin → requires forging + staking + strategic actions  
+- Pin holders → can upgrade, extend duration, and influence the narrative  
+- New narratives can challenge at any time; AI and on-chain rules determine replacements  
 
-There are no levels, experience points, or feeding mechanics.
-
-Evolution is not a reward. It is the natural outcome of accumulated behavior over time.
-
-The organism may:
-
-* Grow
-* Regress
-* Mutate
-* Or disappear
-
-There are no resets.
-
----
-
-## Rules
-
-```
-[ RULES ]
-1. There is only one PokeSim organism. No resets.
-2. The market decides. No one else does.
-3. Creator fees are fuel, not protection.
-4. Evolution reflects behavior, not success.
-5. Failure is allowed. Observation continues.
-```
+**One-line summary of the workflow:**  
+Forge → Stake → AI Empowerment → Pin Slot Contention → Upgrade/Extension → On-chain History
 
 ---
 
-## Contract Address (CA)
+## Key Features
 
-```
-PASTE_YOUR_CA_HERE
-```
-
-This is the only official contract address for PokeSim.
-Always verify the CA through the official website and X account before interacting.
-
----
-
-## Transparency
-
-* All activity is on-chain
-* All funding comes from creator fees
-* All outcomes are public and verifiable
-
-Nothing is hidden. Nothing is adjusted.
+- **Extreme Scarcity:** Only one narrative can occupy the Pin slot at any given time  
+- **On-Chain Visibility:** All actions are recorded transparently on Solana  
+- **AI-Powered Narrative:** Each Pin is enriched by AI to define its historical context and impact  
+- **Community Driven:** Participation, attention, and consensus determine who controls the Pin  
+- **Native Asset:** spl.PIN is a unique on-chain entity, not a traditional NFT  
 
 ---
 
-## Token Notice
+## Links
 
-**PokeSim** is an experimental on-chain entity with no guaranteed utility, value, or financial return.
-
-It exists as a public observation of a market-driven Pokémon simulation, where behavior and evolution emerge naturally through real trading activity.
-
+- Official Website: [https://splpin.fun/](https://splpin.fun/)  
+- Twitter: [https://x.com/pindotfunx](https://x.com/pindotfunx)  
 
 ---
 
-## Disclaimer
+## Summary
 
-PokeSim is an experimental project involving real on-chain activity and market risk.
-
-There are no guarantees of performance, continuity, or survival.
-Participation and observation are at your own discretion.
+Pin.Fun is a new Solana primitive that allows the world to pin exactly one narrative at a time. It transforms attention, participation, and AI evaluation into a measurable, tradable, and historically recorded on-chain asset. The project is not about memes or short-term hype—it is about creating a new standard for how stories, ideas, and events are recorded and remembered on-chain.

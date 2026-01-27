@@ -4,6 +4,8 @@
 
 [Official Website](https://splpin.fun/) | [Twitter](https://x.com/pindotfunx)
 
+7cavDMMaZTbAFD3uDLLErdBX44E4h9ewZSrtnPRfpump
+
 ---
 
 ## What is Pin.Fun?
